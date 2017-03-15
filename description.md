@@ -1,1 +1,1 @@
-Estste modulo ejercitaremos el subneteo IP
+Este modulo ejercitaremos el subneteo IP
