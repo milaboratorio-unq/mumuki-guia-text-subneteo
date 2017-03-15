@@ -1,0 +1,1 @@
+Como se escribe una mascara /24 en notacion de punto
