@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: input_right
-editor: single_choice
+editor: multiple_choice
 type: problem
 extra_visible: false
 language: 
