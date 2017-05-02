@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: 
+teacher_info: 
+manual_evaluation: false
+choices:
+- value: Primera
+  checked: false
+- value: Segunda
+  checked: true
+- value: Tercera
+  checked: false
