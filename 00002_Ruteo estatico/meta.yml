@@ -8,9 +8,12 @@ language:
 teacher_info: 
 manual_evaluation: false
 choices:
-- value: Primera
+- !ruby/hash:BSON::Document
+  value: Primera
   checked: false
-- value: Segunda
+- !ruby/hash:BSON::Document
+  value: Segunda
   checked: true
-- value: Tercera
+- !ruby/hash:BSON::Document
+  value: Tercera
   checked: false

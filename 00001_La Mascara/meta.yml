@@ -8,9 +8,12 @@ language:
 teacher_info: 
 manual_evaluation: false
 choices:
-- value: 255.255.255.0
+- !ruby/hash:BSON::Document
+  value: 255.255.255.0
   checked: true
-- value: 255.255.255.128
+- !ruby/hash:BSON::Document
+  value: 255.255.255.128
   checked: false
-- value: 255.255.255.240
+- !ruby/hash:BSON::Document
+  value: 255.255.255.240
   checked: false
